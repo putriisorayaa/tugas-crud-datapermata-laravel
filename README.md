@@ -51,5 +51,4 @@ http://127.0.0.1:8000
 
 ### Author
 
-Nama : Putri Soraya
-NIM : 240180002
+Putri Soraya (24018002)
